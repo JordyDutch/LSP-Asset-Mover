@@ -1145,8 +1145,20 @@ export default function Home() {
         )}
 
         {/* Footer */}
-        <div className="mt-12 text-center text-gray-500 text-sm">
+        <div className="mt-12 text-center text-gray-600 text-xs space-y-1">
           <p>Powered by LUKSO</p>
+          <p>
+            Use at your own risk ·{' '}
+            <a
+              href="https://github.com/JordyDutch/LSP-Asset-Mover"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-gray-400 transition-colors"
+            >
+              Open-source
+            </a>
+            {' '}· MIT License
+          </p>
         </div>
       </div>
     </main>

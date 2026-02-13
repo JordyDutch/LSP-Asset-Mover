@@ -205,6 +205,14 @@ lsp-asset-mover/
 
 ---
 
+## Disclaimer
+
+> **Use at your own risk.** This software is provided "as is", without warranty of any kind. By using this application you acknowledge that you are solely responsible for any transactions you initiate. Always verify addresses and amounts before confirming a transfer. The authors are not liable for any loss of funds or assets.
+>
+> This project is fully open-source. Review the code yourself before use: [github.com/JordyDutch/LSP-Asset-Mover](https://github.com/JordyDutch/LSP-Asset-Mover)
+
+---
+
 ## License
 
 MIT
