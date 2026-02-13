@@ -208,4 +208,3 @@ lsp-asset-mover/
 ## License
 
 MIT
-# LSP-Asset-Mover
