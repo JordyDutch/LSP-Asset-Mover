@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'LSP Asset Mover - Transfer assets to your Universal Profile',
-  description: 'Easily transfer your LSP7 and LSP8 assets from MetaMask to your LUKSO Universal Profile',
+  description: 'Easily transfer your LSP7 and LSP8 assets from your legacy wallet to your LUKSO Universal Profile',
 }
 
 export default function RootLayout({

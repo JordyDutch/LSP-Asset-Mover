@@ -9,14 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@lukso/lsp-smart-contracts": "^0.15.0",
+    "@rainbow-me/rainbowkit": "^2.0.0",
+    "@tanstack/react-query": "^5.90.21",
+    "ethers": "^6.10.0",
     "next": "14.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@rainbow-me/rainbowkit": "^2.0.0",
-    "wagmi": "^2.5.0",
     "viem": "^2.7.0",
-    "@lukso/lsp-smart-contracts": "^0.15.0",
-    "ethers": "^6.10.0"
+    "wagmi": "^2.5.0"
   },
   "devDependencies": {
     "@types/node": "^20",

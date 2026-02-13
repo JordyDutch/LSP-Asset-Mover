@@ -17,12 +17,3 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
-
-/* Rainbow Kit dark theme overrides */
-[data-rk] {
-  --rk-colors-accentColor: #FF66A1 !important;
-  --rk-colors-accentColorForeground: #fff !important;
-  --rk-colors-modalBackground: #1a1a1a !important;
-  --rk-colors-modalText: #fff !important;
-  --rk-colors-modalTextSecondary: #a0a0a0 !important;
-}
